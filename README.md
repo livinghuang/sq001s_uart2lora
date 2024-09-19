@@ -1,5 +1,3 @@
----
-
 # SQ001S_UART2LORA Project
 
 The **SQ001S_UART2LORA** project is designed to send and receive UART messages via LoRa communication using the **SQ001S PCB board**. It is built on the Arduino platform and comprises two primary components: the **sender** and the **receiver**.
@@ -55,7 +53,6 @@ The receiver module is responsible for:
 - Connect the receiver module to the target device to receive and process the messages.
 - Ensure both modules are powered and within range for LoRa communication.
 
----
 # SQ001S_UART2LORA 專案
 
 **SQ001S_UART2LORA** 專案設計目的是透過 LoRa 通訊傳送和接收 UART 訊息，使用 **SQ001S PCB 板** 作為硬體基礎。本專案基於 Arduino 平台，由兩個主要模組組成：**發送端** 和 **接收端**。
@@ -109,4 +106,3 @@ The receiver module is responsible for:
 - 將發送端模組連接到 UART 訊息的來源。
 - 將接收端模組連接到目標設備以接收和處理訊息。
 - 確保兩個模組都已供電且位於 LoRa 通訊範圍內。
----
