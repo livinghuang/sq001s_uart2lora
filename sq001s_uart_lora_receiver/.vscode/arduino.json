@@ -1,0 +1,6 @@
+{
+    "sketch": "sq001s_uart_lora_receiver.ino",
+    "configuration": "LORAWAN_REGION=6,CPUFreq=160,UploadSpeed=921600,DebugLevel=none,LoRaWanDebugLevel=0,LORAWAN_DEVEUI=0,LORAWAN_PREAMBLE_LENGTH=0,EraseFlash=none",
+    "board": "Heltec-esp32:esp32:heltec_wireless_mini_shell",
+    "port": "/dev/tty.wchusbserial2130"
+}

@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/living/code/github/sq001s_uart_lora_receiver",
+      "program": "/Users/living/code/github/sq001s_uart_lora_receiver/build/Debug/outDebug"
+    }
+  ]
+}
